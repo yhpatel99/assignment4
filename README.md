@@ -14,13 +14,13 @@ Data Merging:
 Data Cleaning:
   To make sure there is accurate calculations, the data undergoes a cleaning process:
 
-     1. Conversion to Numeric: Columns that should contain numeric values (petal_length, petal_width, sepal_length, sepal_width) are converted to numeric types.  
-     2. Dropping NaN Values: Rows containing NaN values are removed from the dataset to avoid errors.
+     1. Coverting to Numeric: columns that have numeric values are converted to numeric types.
+     2. Dropping NaN values: rows containing NaN values are removed from the datatset to help avoid errors.
 
 Statistical Calculations:
   The cleaned data is used to calculate the following metrics:
 
-    1. Correlation Matrix: Shows the correlation between different numeric features.
-    2.Averages: Mean values of numeric features grouped by species.
-    3.Medians: Median values of numeric features grouped by species.
-    4.Standard Deviations: Standard deviation values of numeric features grouped by species.
+     1. Correlation Matrix: shows the correlations between different numeric features
+     2. Averages: Mean values of numeric features grouped by species
+     3. Medians: median values of numeric features grouped by species
+     4. Standard deviations: standard devation values of numeric features grouped by species
