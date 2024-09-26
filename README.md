@@ -24,3 +24,7 @@ Statistical Calculations:
      2. Averages: Mean values of numeric features grouped by species
      3. Medians: median values of numeric features grouped by species
      4. Standard deviations: standard devation values of numeric features grouped by species
+
+
+Conclusion:
+ This assignment creates an analysis of the Iris dataset by combining, cleaning, and calculating different statistical metrics. The results help in understanding the relationships and differences between different species of irises based on their physical measurements.
